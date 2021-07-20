@@ -1,1 +1,3 @@
 # Underwater-Optical-Wireless-Communication
+
+This project was my Senior Design / Capstone project for the end of my undergraduate coursework. The initially desired research presentation for this  Project was to investigate potential viable options for underwater data transfer systems that can transmit a lossless wireless signal at a range of approximately 30 ft. Our research resulted in a decision to further investigate optical or light-based communication. Using COTS products, I was also able to construct a functioning hardware proof-of-concept design of this system, while acknowledging the necessary future work required for a system that could flawlessly function at the inital specifications. 
